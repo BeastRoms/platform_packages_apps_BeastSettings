@@ -19,5 +19,9 @@
     <!-- BeastROMs Settings -->
     <string name="beast_settings_title">Настройки Beast</string>
     <string name="quicksettings_title">Быстрые настройки</string>
+	
+    <!-- QuickSettings haptic feedback -->
+    <string name="quick_settings_vibrate_title">Вибрация при нажатии</string>
+    <string name="quick_settings_vibrate_summary">Вибрировать при нажатии на иконку быстрых настроек</string>
 
 </resources>
