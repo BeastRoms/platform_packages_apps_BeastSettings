@@ -23,5 +23,18 @@
     <!-- QuickSettings haptic feedback -->
     <string name="quick_settings_vibrate_title">Вибрация при нажатии</string>
     <string name="quick_settings_vibrate_summary">Вибрировать при нажатии на иконку быстрых настроек</string>
+	
+    <!-- Tiles animation style  -->
+    <string name="qs_tile_animation_title">Анимация</string>
+    <string name="qs_tile_animation_style_title">Стиль анимации</string>
+    <string name="qs_tile_animation_duration_title">Длительность анимации</string>
+    <string name="qs_tile_animation_style_off">без анимации</string>
+    <string name="qs_tile_animation_style_flip">кувырок</string>
+    <string name="qs_tile_animation_style_rotate">переворот</string>
+    <string name="qs_tile_animation_duration_low">медленно</string>
+    <string name="qs_tile_animation_duration_default">по умолчанию</string>
+    <string name="qs_tile_animation_duration_fast">быстро</string>
+    <string name="qs_set_animation_style">Установлена анимация %1$s</string>
+    <string name="qs_set_animation_duration">Длительность установлена %1$s</string>
 
 </resources>
