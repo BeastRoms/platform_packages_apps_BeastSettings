@@ -28,13 +28,20 @@
     <string name="qs_tile_animation_title">Анимация</string>
     <string name="qs_tile_animation_style_title">Стиль анимации</string>
     <string name="qs_tile_animation_duration_title">Длительность анимации</string>
-    <string name="qs_tile_animation_style_off">без анимации</string>
-    <string name="qs_tile_animation_style_flip">кувырок</string>
-    <string name="qs_tile_animation_style_rotate">переворот</string>
-    <string name="qs_tile_animation_duration_low">медленно</string>
-    <string name="qs_tile_animation_duration_default">по умолчанию</string>
-    <string name="qs_tile_animation_duration_fast">быстро</string>
-    <string name="qs_set_animation_style">Установлена анимация %1$s</string>
-    <string name="qs_set_animation_duration">Длительность установлена %1$s</string>
+    <string name="qs_tile_animation_interpolator_title">Tiles animation interpolator</string>
+    <string name="qs_tile_animation_style_off">Без анимации</string>
+    <string name="qs_tile_animation_style_flip">Кувырок</string>
+    <string name="qs_tile_animation_style_rotate">Вращение</string>
+    <string name="qs_tile_animation_duration_low">Медленно</string>
+    <string name="qs_tile_animation_duration_default">По умолчанию</string>
+    <string name="qs_tile_animation_duration_fast">Быстро</string>
+    <string name="qs_tile_animation_interpolator_linearInterpolator">Линейный</string>
+    <string name="qs_tile_animation_interpolator_accelerateInterpolator">Ускорение</string>
+    <string name="qs_tile_animation_interpolator_decelerateInterpolator">Замедление</string>
+    <string name="qs_tile_animation_interpolator_accelerateDecelerateInterpolator">Ускорение Замедление</string>
+    <string name="qs_tile_animation_interpolator_bounceInterpolator">Отскок</string>
+    <string name="qs_tile_animation_interpolator_overshootInterpolator">Выброс</string>
+    <string name="qs_tile_animation_interpolator_anticipateInterpolator">Ускорение</string>
+    <string name="qs_tile_animation_interpolator_anticipateOvershootInterpolator">Ускоренный выброс</string>
 
 </resources>
