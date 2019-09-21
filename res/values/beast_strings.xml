@@ -16,7 +16,8 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <!-- BeastROMs Extras -->
+    <!-- BeastROMs Settings -->
     <string name="beast_settings_title">Beast Settings</string>
+    <string name="quicksettings_title">Quick Settings</string>
 
 </resources>

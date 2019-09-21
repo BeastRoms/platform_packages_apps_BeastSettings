@@ -17,14 +17,6 @@
 <PreferenceScreen
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:settings="http://schemas.android.com/apk/res/com.android.settings"
-    android:title="@string/beast_settings_title" >
-	
-        <!-- Quick Settings -->
-        <PreferenceScreen
-            android:id="@+id/quick_settings"
-            android:title="@string/quicksettings_title"
-            android:fragment="com.beast.settings.QuickSettings"
-            android:layout="@layout/preference_beast_quicksettings"
-            />
-	
+    android:title="@string/quicksettings_title" >
+
 </PreferenceScreen>

@@ -14,17 +14,12 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<PreferenceScreen
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:settings="http://schemas.android.com/apk/res/com.android.settings"
-    android:title="@string/beast_settings_title" >
-	
-        <!-- Quick Settings -->
-        <PreferenceScreen
-            android:id="@+id/quick_settings"
-            android:title="@string/quicksettings_title"
-            android:fragment="com.beast.settings.QuickSettings"
-            android:layout="@layout/preference_beast_quicksettings"
-            />
-	
-</PreferenceScreen>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Dashboard tile minimum height -->
+    <dimen name="dashboard_tile_minimum_height">72dp</dimen>
+
+    <!-- Dashboard tile image margin start / end -->
+    <dimen name="dashboard_tile_image_margin">18dp</dimen>
+
+</resources>
