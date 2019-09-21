@@ -19,12 +19,28 @@
     xmlns:settings="http://schemas.android.com/apk/res/com.android.settings"
     android:title="@string/beast_settings_title" >
 	
+        <!-- Lockscreen Settings -->
+        <PreferenceScreen
+            android:id="@+id/lockscreen_settings"
+            android:title="@string/lockscreensettings_title"
+            android:fragment="com.beast.settings.LockscreenSettings"
+            android:layout="@layout/preference_beast_lockscreensettings"
+            />
+	
         <!-- Quick Settings -->
         <PreferenceScreen
             android:id="@+id/quick_settings"
             android:title="@string/quicksettings_title"
             android:fragment="com.beast.settings.QuickSettings"
             android:layout="@layout/preference_beast_quicksettings"
+            />
+			
+        <!-- Misc Settings -->
+        <PreferenceScreen
+            android:id="@+id/misc_settings"
+            android:title="@string/miscsettings_title"
+            android:fragment="com.beast.settings.MiscSettings"
+            android:layout="@layout/preference_beast_miscsettings"
             />
 	
 </PreferenceScreen>
