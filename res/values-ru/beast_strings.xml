@@ -30,7 +30,7 @@
     <string name="qs_tile_animation_title">Анимация</string>
     <string name="qs_tile_animation_style_title">Стиль анимации</string>
     <string name="qs_tile_animation_duration_title">Длительность анимации</string>
-    <string name="qs_tile_animation_interpolator_title">Tiles animation interpolator</string>
+    <string name="qs_tile_animation_interpolator_title">Интерполятор анимации</string>
     <string name="qs_tile_animation_style_off">Без анимации</string>
     <string name="qs_tile_animation_style_flip">Кувырок</string>
     <string name="qs_tile_animation_style_rotate">Вращение</string>
