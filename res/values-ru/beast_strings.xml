@@ -21,6 +21,7 @@
     <string name="quicksettings_title">Быстрые настройки</string>
     <string name="lockscreensettings_title">Экран блокировки</string>
     <string name="miscsettings_title">Дополнительные настройки</string>
+    <string name="button_settings_title">Кнопки</string>
 	
     <!-- QuickSettings haptic feedback -->
     <string name="quick_settings_vibrate_title">Вибрация при нажатии</string>
@@ -53,5 +54,22 @@
     <!-- Wakeup options -->
     <string name="wakeup_when_plugged_unplugged_title">Пробуждение при зарядке</string>
     <string name="wakeup_when_plugged_unplugged_summary">Пробуждать устройство при подключении/отключении зарядного устройства.</string>
+	
+    <!-- Global Actions -->
+    <string name="global_actions_title">Меню кнопки питания</string>
+    <string name="global_actions_summary">Выберите действия при удержании кнопки питания</string>
+    <string name="global_actions_power">Выключение</string>
+    <string name="global_actions_restart">Перезагрузка</string>
+    <string name="global_actions_airplane">Режим полета</string>
+    <string name="global_actions_settings">Настройки</string>
+    <string name="global_actions_lockdown">Заблокировать</string>
+    <string name="global_actions_soundpanel">Звуковая панель</string>
+    <string name="global_actions_users">Пользователи</string>
+    <string name="global_actions_screenshot">Снимок экрана</string>
+    <string name="global_actions_screenrecord">Запись экрана</string>
+    <string name="global_actions_flashlight">Фонарик</string>
+    <string name="global_actions_emergency">Экстренные службы</string>
+    <string name="global_actions_advanced_reboot_title">Включить расширенную перезагрузку</string>
+    <string name="global_actions_advanced_reboot_summary">Отображать варианты перезагрузки в рекавери или загрузчик</string>
 
 </resources>
