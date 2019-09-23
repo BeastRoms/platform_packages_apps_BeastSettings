@@ -71,5 +71,11 @@
     <string name="global_actions_emergency">Экстренные службы</string>
     <string name="global_actions_advanced_reboot_title">Включить расширенную перезагрузку</string>
     <string name="global_actions_advanced_reboot_summary">Отображать варианты перезагрузки в рекавери или загрузчик</string>
+	
+    <!-- On-The-Go -->
+    <string name="onthego_title">Режим On-The-Go</string>
+    <string name="global_actions_onthego_title">On-The-Go</string>
+    <string name="onthego_alpha_title">Прозрачность On-The-Go</string>
+    <string name="onthego_alpha_summary">Настройка прозрачности в режиме On-The-Go.</string>
 
 </resources>
