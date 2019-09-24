@@ -91,5 +91,9 @@
     <string name="volume_steps_system_title">Громкость: Система</string>
     <string name="volume_steps_voice_call_title">Громкость: Разговор</string>
     <string name="volume_steps_reset">Сброс</string>
+	
+     <!-- Three-fingers-swipe to screenshot -->
+    <string name="three_finger_gesture">Скриншот жестом</string>
+    <string name="three_finger_gesture_summary">Свайп тремя пальцами для снятия скриншота</string>
 
 </resources>
