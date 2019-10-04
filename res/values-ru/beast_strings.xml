@@ -101,5 +101,12 @@
     <string name="volume_rocker_wake_summary">Нажатие на кнопки громкости пробуждает ваше устройство</string>
     <string name="volume_rocker_music_controls_title">Управление музыкой</string>
     <string name="volume_rocker_music_controls_summary">Длительное нажатие на кнопки громкости, переключает треки, когда экрвн выключен.</string>
+	
+    <!-- Torch Power button gestures -->
+    <string name="torch_power_button_gesture_title">Активация фонарика</string>
+    <string name="torch_power_button_gesture_none">Отключено</string>
+    <string name="torch_power_button_gesture_dt">Двойное нажатие (медленный отклик одним касанием)</string>
+    <string name="torch_power_button_gesture_dt_toast">Жест перехода к камере отключен</string>
+    <string name="torch_power_button_gesture_lp">Долгое нажатие кнопки питания</string>
 
 </resources>
