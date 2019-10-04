@@ -99,5 +99,7 @@
     <!--Volume keys -->
     <string name="volume_rocker_wake_title">Пробуждение кнопками громкости</string>
     <string name="volume_rocker_wake_summary">Нажатие на кнопки громкости пробуждает ваше устройство</string>
+    <string name="volume_rocker_music_controls_title">Управление музыкой</string>
+    <string name="volume_rocker_music_controls_summary">Длительное нажатие на кнопки громкости, переключает треки, когда экрвн выключен.</string>
 
 </resources>
